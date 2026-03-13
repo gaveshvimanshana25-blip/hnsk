@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID || "PUT_YOUR_SESSION_ID",
+SESSION_ID: process.env.SESSION_ID || "oFE2BZZB#NOdhQC9AI2_l56tXJvkSDeKf7IJG547RGoguE8qkV_I",
 
 // fixed image link
 ALIVE_IMG: process.env.ALIVE_IMG || "https://raw.githubusercontent.com/Hnsk23/hnsk/main/images/HANSA%20md.png",
